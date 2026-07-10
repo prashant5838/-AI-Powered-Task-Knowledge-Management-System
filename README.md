@@ -1,5 +1,3 @@
-# -AI-Powered-Task-Knowledge-Management-System
-AI-powered Task &amp; Knowledge Management System — FastAPI + MySQL backend with JWT auth &amp; RBAC, React frontend, and a from-scratch semantic search engine (TF-IDF embeddings + FAISS/cosine similarity) for document search and task management.
 # AI-Powered Task & Knowledge Management System
 
 A full-stack MVP where an **Admin** builds a searchable knowledge base by 
